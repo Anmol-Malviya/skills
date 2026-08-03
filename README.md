@@ -35,3 +35,10 @@ Contributions are welcome! If you have a specific workflow, architectural patter
 ## 📄 License
 
 This collection is provided for open use to empower developers and AI agents alike.
+
+
+---
+
+## Maintainer
+
+Maintained by [Anmol Malviya](https://github.com/Anmol-Malviya). Issues and focused pull requests are welcome.
